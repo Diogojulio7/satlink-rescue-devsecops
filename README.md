@@ -1,4 +1,4 @@
-# satlink-rescue-devsecops# SatLink Rescue - DevSecOps
+SatLink Rescue - DevSecOps
 
 ## Integrantes
 Diogo Julio - RM553837
