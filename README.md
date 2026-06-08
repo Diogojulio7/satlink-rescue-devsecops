@@ -4,6 +4,7 @@ SatLink Rescue - DevSecOps
 Diogo Julio - RM553837
 Jonata rafael - RM552939
 Beatriz Silva - RM553455
+Larissa Estella - RM552695
 
 ## Descrição
 
